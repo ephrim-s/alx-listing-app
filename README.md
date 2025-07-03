@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ALX Listing App
 
-## Getting Started
+## 🚀 Project Overview
 
-First, run the development server:
+The **ALX Listing App** is a foundational project for building a modern **Airbnb clone**. This milestone focuses on **scaffolding a scalable Next.js application** using **TypeScript**, **TailwindCSS**, and **ESLint**, with an emphasis on **project structure**, **reusable components**, and **clean configuration**. This forms the groundwork for building a responsive and user-friendly property listing page.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🎯 Learning Objectives
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+By completing this milestone, developers will:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Gain hands-on experience scaffolding a production-ready Next.js project.
+- Apply TypeScript to enforce type safety and create reusable interfaces.
+- Use TailwindCSS for building responsive and accessible UIs.
+- Structure a project for scalability and maintainability.
+- Create reusable components and manage assets effectively.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🧠 Prerequisites
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Basic experience with **Next.js**, **React**, and **TypeScript**.
+- Familiarity with **TailwindCSS** and component-based styling.
+- Understanding of **ESLint** and its benefits in code quality.
+- Ability to structure and organize scalable front-end applications.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🛠️ Tech Stack
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Next.js v15+**
+- **Node.js v16+**
+- **TypeScript**
+- **TailwindCSS v4**
+- **ESLint**
+- **VS Code** (Recommended editor with TypeScript and TailwindCSS extensions)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📁 Project Structure
+
